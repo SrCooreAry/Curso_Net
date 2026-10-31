@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TPbC5wjtTqU=",
+  "dgSpecHash": "pOt+IB2yoog=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arafa\\OneDrive\\Documentos\\CursoNet\\LeerData\\LeerData.csproj",
+  "projectFilePath": "C:\\Users\\Arafa\\Documents\\Git\\Curso_Net\\LeerData\\LeerData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arafa\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",
     "C:\\Users\\Arafa\\.nuget\\packages\\azure.identity\\1.12.1\\azure.identity.1.12.1.nupkg.sha512",

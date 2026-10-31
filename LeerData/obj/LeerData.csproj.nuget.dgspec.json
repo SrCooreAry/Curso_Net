@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arafa\\OneDrive\\Documentos\\CursoNet\\LeerData\\LeerData.csproj": {}
+    "C:\\Users\\Arafa\\Documents\\Git\\Curso_Net\\LeerData\\LeerData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arafa\\OneDrive\\Documentos\\CursoNet\\LeerData\\LeerData.csproj": {
+    "C:\\Users\\Arafa\\Documents\\Git\\Curso_Net\\LeerData\\LeerData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arafa\\OneDrive\\Documentos\\CursoNet\\LeerData\\LeerData.csproj",
+        "projectUniqueName": "C:\\Users\\Arafa\\Documents\\Git\\Curso_Net\\LeerData\\LeerData.csproj",
         "projectName": "LeerData",
-        "projectPath": "C:\\Users\\Arafa\\OneDrive\\Documentos\\CursoNet\\LeerData\\LeerData.csproj",
+        "projectPath": "C:\\Users\\Arafa\\Documents\\Git\\Curso_Net\\LeerData\\LeerData.csproj",
         "packagesPath": "C:\\Users\\Arafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arafa\\OneDrive\\Documentos\\CursoNet\\LeerData\\obj\\",
+        "outputPath": "C:\\Users\\Arafa\\Documents\\Git\\Curso_Net\\LeerData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
