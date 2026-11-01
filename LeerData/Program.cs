@@ -1,5 +1,4 @@
-﻿using System.Runtime.ConstrainedExecution;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace LeerData;
 class Program
